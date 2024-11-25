@@ -18,7 +18,7 @@ import mysql.connector
 dataBase = mysql.connector.connect(
 	host = 'localhost',
 	user = 'root',
-	passwd = 'lujianheng554',
+	passwd = '',
 
 	)
 
